@@ -1,0 +1,17 @@
+C:\Users\seyma\source\repos\VbtInternEmailQueue\VbtInternEmailQueue\bin\Debug\net8.0\VbtInternEmailQueue.exe
+C:\Users\seyma\source\repos\VbtInternEmailQueue\VbtInternEmailQueue\bin\Debug\net8.0\VbtInternEmailQueue.deps.json
+C:\Users\seyma\source\repos\VbtInternEmailQueue\VbtInternEmailQueue\bin\Debug\net8.0\VbtInternEmailQueue.runtimeconfig.json
+C:\Users\seyma\source\repos\VbtInternEmailQueue\VbtInternEmailQueue\bin\Debug\net8.0\VbtInternEmailQueue.dll
+C:\Users\seyma\source\repos\VbtInternEmailQueue\VbtInternEmailQueue\bin\Debug\net8.0\VbtInternEmailQueue.pdb
+C:\Users\seyma\source\repos\VbtInternEmailQueue\VbtInternEmailQueue\obj\Debug\net8.0\VbtInternEmailQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seyma\source\repos\VbtInternEmailQueue\VbtInternEmailQueue\obj\Debug\net8.0\VbtInternEmailQueue.AssemblyInfoInputs.cache
+C:\Users\seyma\source\repos\VbtInternEmailQueue\VbtInternEmailQueue\obj\Debug\net8.0\VbtInternEmailQueue.AssemblyInfo.cs
+C:\Users\seyma\source\repos\VbtInternEmailQueue\VbtInternEmailQueue\obj\Debug\net8.0\VbtInternEmailQueue.csproj.CoreCompileInputs.cache
+C:\Users\seyma\source\repos\VbtInternEmailQueue\VbtInternEmailQueue\obj\Debug\net8.0\VbtInternEmailQueue.dll
+C:\Users\seyma\source\repos\VbtInternEmailQueue\VbtInternEmailQueue\obj\Debug\net8.0\refint\VbtInternEmailQueue.dll
+C:\Users\seyma\source\repos\VbtInternEmailQueue\VbtInternEmailQueue\obj\Debug\net8.0\VbtInternEmailQueue.pdb
+C:\Users\seyma\source\repos\VbtInternEmailQueue\VbtInternEmailQueue\obj\Debug\net8.0\VbtInternEmailQueue.genruntimeconfig.cache
+C:\Users\seyma\source\repos\VbtInternEmailQueue\VbtInternEmailQueue\obj\Debug\net8.0\ref\VbtInternEmailQueue.dll
+C:\Users\seyma\source\repos\VbtInternEmailQueue\VbtInternEmailQueue\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\seyma\source\repos\VbtInternEmailQueue\VbtInternEmailQueue\obj\Debug\net8.0\VbtInternEmailQueue.csproj.AssemblyReference.cache
+C:\Users\seyma\source\repos\VbtInternEmailQueue\VbtInternEmailQueue\obj\Debug\net8.0\VbtInternEmailQueue.csproj.CopyComplete
