@@ -30,8 +30,7 @@ internal class Program
                 List<string> emailAddresses = new List<string>
                 {
                     "gocmezseyma@gmail.com",
-                    "seymagocmez00@gmail.com",
-                    "gocmezbanu@gmail.com"
+                    
                 };
 
                 List<MessageModel> messageModels = new List<MessageModel>();
